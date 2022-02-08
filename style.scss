@@ -353,10 +353,15 @@ main
 {
     width: 320px;
     margin-right: 30px;
+    border-radius: 10px;
 }
 .profile-main-container .profile-container
 {
     display: flex;
+}
+.profile-main-container h1
+{
+    margin-bottom: 30px;
 }
 .profile-main-proyects
 {
